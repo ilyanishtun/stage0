@@ -21,3 +21,42 @@ I have huge motivation.
 My strengths: Motivation
 
 My traget: Independence, liberty
+
+## Skills
+* HTML5
+* CSS3
+* Markdown
+* Bootstrap5
+* JavaScript
+* Git 
+* Figma
+* Jira
+* Python
+
+## Code
+```
+<script>
+    alert( 'Hello, RSSchool!' );
+</script>
+```
+## Experience
+I have few learning project, you can check my Git. 
+* [https://ilyanishtun.github.io/sarybai/](https://ilyanishtun.github.io/sarybai/) (HTML, CSS, PHP, JS)
+* [https://ilyanishtun.github.io/paper/](https://ilyanishtun.github.io/paper/) (HTML, CSS)
+* [https://ilyanishtun.github.io/watch/](https://ilyanishtun.github.io/watch/) (HTML, CSS)
+* [https://ilyanishtun.github.io/webdevblog/](https://ilyanishtun.github.io/webdevblog/) (HTML, CSS, Bootstrap5)
+* [https://ilyanishtun.github.io/webdevblog2/](https://ilyanishtun.github.io/webdevblog2/) (HTML, CSS, Bootstrap5)
+
+## Education and courses:
+* Stepik HTML, CSS, Python courses
+* GeekBrains different courses and webinars
+* SkillBox different courses and webinars
+* Code Basics HTML course
+* Methed school JS course
+* YouToube lucture
+
+## Languages
+* Russian - Native
+* English - A2 (when I worked at the restaurant I could practice my English with foreign guests)
+* Ukrainian -  Intermediate
+
